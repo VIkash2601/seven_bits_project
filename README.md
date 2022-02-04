@@ -18,9 +18,9 @@ sudo apt install npm
 ```
 2. [Install Truffle](https://www.trufflesuite.com/docs/truffle/getting-started/installation)
 ```
-npx install truffle
+npm install truffle
 OR
-npx install -g truffle (to install globally)
+npm install -g truffle (to install globally)
 ```
 3. [Unbox react box](https://www.trufflesuite.com/boxes/react)
 ```
